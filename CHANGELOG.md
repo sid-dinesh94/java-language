@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.99.2](https://www.github.com/googleapis/java-language/compare/v1.99.1...v1.99.2) (2020-01-23)
+
+
+### Dependencies
+
+* update dependency org.threeten:threetenbp to v1.4.1 ([b042fcb](https://www.github.com/googleapis/java-language/commit/b042fcb563039c005babb677b189f2718153ad36))
+
 ### [1.99.1](https://www.github.com/googleapis/java-language/compare/v1.99.0...v1.99.1) (2020-01-07)
 
 
